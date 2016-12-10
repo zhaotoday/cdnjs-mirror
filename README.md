@@ -7,6 +7,3 @@
 <!--CDN 不稳定时，加载本地资源-->
 <script>window.jQuery || document.write('<script src="/jquery.min.js"><\/script>');</script>
 ```
-
-## 网址
-http://www.codefarm.net/
